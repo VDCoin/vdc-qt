@@ -3,7 +3,7 @@ VDC Official Development Repo
 ==================================
 
 ### What is VDC (VDC)?
-[VDC], also known as VDC and Peer-to-Peer Coin is the first [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design introducing [proof-of-stake consensus] as a security model, with a combined [proof-of-stake]/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. VDC is based on [Bitcoin](http://bitcoin.org/en/), while introducing many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
+[VDC] , also known as VDC and Peer-to-Peer Coin is the first [cryptocurrency](https://en.wikipedia.org/wiki/Cryptocurrency) design introducing [proof-of-stake consensus] as a security model, with a combined [proof-of-stake]/[proof-of-work](https://en.wikipedia.org/wiki/Proof-of-work_system) minting system. VDC is based on [Bitcoin](http://bitcoin.org/en/), while introducing many important innovations to cryptocurrency field including new security model, energy efficiency, better minting model and more adaptive response to rapid change in network computation power.
 
 ### VDC Resources
 * Client and Source:
